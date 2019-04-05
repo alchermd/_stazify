@@ -1,0 +1,34 @@
+{
+  "courses": [
+    "Computer Engineering",
+    "Computer Science",
+    "Computer Technology",
+    "Electrical Engineering",
+    "Electronics Engineering",
+    "Information Systems",
+    "Information Technology"
+  ],
+  "industries": [
+    "Accounting and Finance",
+    "Administration and Coordination",
+    "Architecture and Engineering",
+    "Arts and Sports",
+    "Customer Service",
+    "Education and Training",
+    "General Services",
+    "Health and Medical",
+    "Hospitality and Tourism",
+    "Human Resources",
+    "IT and Software",
+    "Legal",
+    "Management and Consultancy",
+    "Manufacturing and Production",
+    "Media and Creatives",
+    "Public Service and NGOs",
+    "Safety and Security",
+    "Sales and Marketing",
+    "Sciences",
+    "Supply Chain",
+    "Writing and Content"
+  ]
+}
