@@ -153,5 +153,5 @@ vagrant@stazify: $~/code ./vendor/bin/phpunit
 
 ## License
 
-This proprietary software is owned by John Alcher Doloiras <johnalcherdoloiras@gmail.com> and Rizalyn Dela Cruz. See the [LICENSE](LICENSE) file for more information.
+This software is developed by John Alcher Doloiras <johnalcherdoloiras@gmail.com> and Rizalyn Dela Cruz. See the [LICENSE](LICENSE) file for more information.
 
